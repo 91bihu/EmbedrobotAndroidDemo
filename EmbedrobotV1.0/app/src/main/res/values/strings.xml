@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">内嵌机器人Demo</string>
+
+
+    <string name="login_name">登  录</string>
+    <string name="login_exit">退  出</string>
+
+    <string name="login_account">账号</string>
+    <string name="login_passwd">密码</string>
+
+</resources>

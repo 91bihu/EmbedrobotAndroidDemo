@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/subject_title_bar_height"
+    android:background="@color/subject_item_background"
+    android:id="@+id/rl_title_bar_main">
+
+
+    <TextView
+        android:id="@+id/title_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:ellipsize="end"
+        android:gravity="center"
+        android:maxWidth="200dip"
+        android:singleLine="true"
+        android:textSize="20dip"
+        android:textColor="@color/color_black"
+        android:layout_centerInParent="true"/>
+
+    <TextView
+        android:id="@+id/title_tel_iv"
+        android:layout_width="100dip"
+        android:layout_height="30dip"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+
+        android:gravity="center"
+        android:text="清除 Token " />
+
+
+
+
+
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dip"
+        android:background="@mipmap/line"
+        android:layout_alignParentBottom="true"></View>
+</RelativeLayout>

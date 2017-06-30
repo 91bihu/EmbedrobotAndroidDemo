@@ -1,0 +1,142 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <dimen name="margin_normal">10dp</dimen>
+    <dimen name="padding_normal">10dp</dimen>
+    <dimen name="text_normal">14sp</dimen>
+    <dimen name="table_line">0.5dp</dimen>
+    <dimen name="nav_item_width">50dip</dimen>
+    <dimen name="gridPadding">10dp</dimen>
+    <dimen name="text_size_44">44sp</dimen>
+    <dimen name="text_size_39">39sp</dimen>
+    <dimen name="text_size_30">30sp</dimen>
+    <dimen name="text_size_24">24sp</dimen>
+    <dimen name="text_size_18">18sp</dimen>
+    <dimen name="text_size_20">20sp</dimen>
+    <dimen name="text_size_21">21sp</dimen>
+    <dimen name="text_size_17">17sp</dimen>
+    <dimen name="text_size_15">15sp</dimen>
+    <dimen name="text_size_14">14sp</dimen>
+    <dimen name="text_size_13">13sp</dimen>
+    <dimen name="text_size_12">12sp</dimen>
+    <dimen name="line_margin">15dip</dimen>
+    <dimen name="text_margin">15dip</dimen>
+    <dimen name="text_margins">25dip</dimen>
+    <dimen name="margin_top">10dip</dimen>
+    <dimen name="normaL_button_height">48dip</dimen>
+    <dimen name="normaL_item_height">48dip</dimen>
+    <dimen name="title_height">52dip</dimen>
+    <dimen name="button_margin">15dip</dimen>
+    <dimen name="dialog_min_width">250dip</dimen>
+    <dimen name="dialog_min_height">200dip</dimen>
+    <dimen name="text_margin_top">15dip</dimen>
+    <dimen name="home_page_info_layout_top">10dp</dimen>
+    <dimen name="home_page_info_layout_tops">13dp</dimen>
+    <dimen name="home_page_text_normal_size">15sp</dimen>
+    <dimen name="home_page_text_layout_top">8dp</dimen>
+    <dimen name="home_page_text_layout_left">8dp</dimen>
+    <dimen name="home_page_spacing">5dp</dimen>
+    <dimen name="home_page_btn_top">15dp</dimen>
+    <dimen name="home_page_text_large_size">23sp</dimen>
+    <dimen name="home_page_text_small_size">13sp</dimen>
+    <dimen name="tips_size">18sp</dimen>
+    <dimen name="screen_padding">11dp</dimen>
+    <dimen name="base_text_size">16sp</dimen>
+    <dimen name="base_large_text_size">18sp</dimen>
+    <dimen name="base_small_text_size">14sp</dimen>
+    <dimen name="list_date">16sp</dimen>
+    <dimen name="home_page_margen">8dip</dimen>
+    <dimen name="publish_needs_sucess_margin_top">20dp</dimen>
+    <dimen name="title_size">18sp</dimen>
+    <dimen name="margintop">5dp</dimen>
+    <dimen name="padding_five">5dp</dimen>
+    <dimen name="padding_fifty">15dp</dimen>
+    <!-- 尺寸大小 -->
+
+
+    <!-- 框架界面 -->
+    <dimen name="fragment_main_tab_height">50dip</dimen>
+    <!-- 标题Title Bar相关尺寸标注 -->
+    <dimen name="subject_title_bar_height">45dip</dimen>
+    <dimen name="subject_title_bar_right_mRight">10dip</dimen>
+    <!-- 专题ITEM中相关尺寸标注 -->
+    <dimen name="subject_topitem_height">270dip</dimen>
+    <dimen name="subject_topitem_content_mtoporbottom">17dip</dimen>
+    <dimen name="subject_item_image_mleftorright">10dip</dimen>
+    <dimen name="subject_item_image_mtoporbottom">10dip</dimen>
+    <dimen name="subject_item_image_height">200dip</dimen>
+    <dimen name="subject_item_title_mtoporblow">7dip</dimen>
+    <dimen name="subject_item_pingcount_mleft">5dip</dimen>
+    <dimen name="subject_item_details_img_width">120dip</dimen>
+    <dimen name="subject_item_details_img_height">107dip</dimen>
+
+    <!-- 个人中心相关尺寸标注 -->
+    <dimen name="personal_settings_item_height">40dip</dimen>
+    <dimen name="personal_setting_main_item_height">45dip</dimen>
+    <dimen name="personal_setting_main_loginbtn_with">100dip</dimen>
+    <dimen name="personal_setting_main_loginbtn_height">35dip</dimen>
+    <dimen name="personal_setting_mycar_top_height">100dip</dimen>
+    <!-- 字体 -->
+    <dimen name="title_seting_size">15sp</dimen>
+
+    <!-- 登录界面 -->
+    <dimen name="login_btn_height">40dip</dimen>
+    <dimen name="login_btn_width">150dip</dimen>
+    <!-- 订单详情页 -->
+    <dimen name="order_detail_top_img_height">80dip</dimen>
+    <dimen name="order_detail_top_img_width">80dip</dimen>
+    <dimen name="order_detail_top_img_margin">10dip</dimen>
+    <dimen name="order_detail_top_ll_height">150dip</dimen>
+    <dimen name="order_detail_text_padding">5dip</dimen>
+    <!-- 选车界面 -->
+    <dimen name="choose_car_item_height">60dip</dimen>
+    <!-- 首页面 -->
+    <dimen name="home_top_menu_item_height">40dip</dimen>
+
+    <!-- 支付页面 -->
+    <dimen name="home_explosion_area_height">162dip</dimen>
+    <dimen name="mini_margin_10">10.0dip</dimen>
+    <dimen name="mini_margin_13">13.0dip</dimen>
+    <dimen name="mini_margin_15">15.0dip</dimen>
+    <dimen name="BasicTextSize">15dp</dimen>
+    <dimen name="LargeTextSize">16dp</dimen>
+    <dimen name="TitleTextSize">18dp</dimen>
+    <dimen name="SmallTextSize">14dp</dimen>
+    <dimen name="SmallerTextSize">13dp</dimen>
+    <dimen name="LargestTextSize">30dp</dimen>
+    <dimen name="ChattingTextSize">16dp</dimen>
+    <dimen name="ChattingContentMinHeight">49dp</dimen>
+    <dimen name="PreferenceItemHeight">42dp</dimen>
+    <dimen name="ConversationItemHeight">58dp</dimen>
+    <dimen name="LargeAvatarSize">56dp</dimen>
+
+    <!-- 顶部按钮栏高度 -->
+    <dimen name="pickerview_topbar_height">44dp</dimen>
+    <!-- 顶部按钮paddingLeft -->
+    <dimen name="pickerview_topbar_paddingleft">10dp</dimen>
+    <!-- 顶部按钮paddingRight -->
+    <dimen name="pickerview_topbar_paddingright">30dp</dimen>
+    <!-- 顶部按钮文字大小 -->
+    <dimen name="pickerview_topbar_btn_textsize">15sp</dimen>
+    <dimen name="pickerview_topbar_title_textsize">20sp</dimen>
+
+    <dimen name="register_inputbox_main_height">60dip</dimen>
+    <dimen name="register_inputbox_rl_height">59dip</dimen>
+    <dimen name="register_inputbox_btn_height">35dip</dimen>
+    <dimen name="register_inputbox_marginTop_10">10dip</dimen>
+    <dimen name="register_inputbox_marginleft_20">20dip</dimen>
+    <dimen name="register_inputbox_marginleft_30">30dip</dimen>
+    <dimen name="register_inputbox_with_70">70dip</dimen>
+    <dimen name="dimen_item_maign_05">0.5dp</dimen>
+    <dimen name="dimen_item_maign_1">1dip</dimen>
+    <dimen name="dimen_item_maign_5">5dip</dimen>
+    <dimen name="dimen_item_maign_7">7dip</dimen>
+    <dimen name="dimen_item_maign_10">10dip</dimen>
+    <dimen name="dimen_item_maign_20">20dip</dimen>
+    <dimen name="dimen_item_height_40">40dip</dimen>
+    <dimen name="dimen_item_height_50">50dip</dimen>
+    <dimen name="dimen_item_margin_left">15dip</dimen>
+</resources>
